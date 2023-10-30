@@ -1,7 +1,7 @@
 Ratanon Khamrong
 ========================================================================================================================================
 
-competitive programmer &
+competitive programmer
 ------------------------
 
 I've been in competitive programming field for the last
