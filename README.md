@@ -4,8 +4,6 @@ Ratanon Khamrong
 competitive programmer
 ----------------------
 
-I've been in competitive programming field for the last
-
 *   🌍  I'm based in Thailand
 *   ✉️  You can contact me at [subforwork@gmail.com](mailto:subforwork@gmail.com)
 *   🧠  I'm learning web development### Skills 
