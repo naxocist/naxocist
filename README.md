@@ -1,10 +1,5 @@
 Ratanon Khamrong   (*￣▽￣)b 
 =================================
-
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Naxocist/submission" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Naxocist&repo=submission&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
