@@ -1,5 +1,4 @@
 # | (*￣▽￣)b | Hi 👋, I'm Ratanon Khamrong
-<img src="https://komarev.com/ghpvc/?username=Naxocist&style=flat-square&color=blue" alt=""/>
 
 > A passionate problem solver and typer from Thailand
 <b>Top Repositories</b>
