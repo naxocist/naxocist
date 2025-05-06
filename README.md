@@ -1,6 +1,7 @@
 # | (*￣▽￣)b | Hi 👋, I'm Ratanon Khamrong
 
-> A passionate problem solver and typer from Thailand
+> Finding topic to learn & dive into
+<br>
 <b>Top Repositories</b>
 <div width="100%" align="center">
 
