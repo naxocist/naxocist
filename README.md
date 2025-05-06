@@ -1,6 +1,6 @@
 # | (*￣▽￣)b | Hi 👋, I'm Ratanon Khamrong
 
-> Finding topic to learn & dive into
+> Finding topics to learn & dive into
 <br>
 <b>Top Repositories</b>
 <div width="100%" align="center">
