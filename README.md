@@ -1,3 +1,9 @@
+# Currently Learning
+- Parallel & Distributed computing
+- High Performance Computing
+- GPU programming
+- Computer Architecture
+
 <pre>
 ⠀⠀⠀⣀⡤⠔⠒⠉⠉⠉⠉⠑⠒⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀
 ⠀⠀⣠⠞⢋⠁⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀
@@ -13,3 +19,4 @@
 ⢠⣿⣿⠀⢝⠀⢰⢧⠂⣥⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </pre>
 <b>平沢唯 - けいおん！</b>
+
