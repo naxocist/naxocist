@@ -1,4 +1,7 @@
 <pre>
+Current focus is on ...
+- large-scale system design & tool integration
+- software devs fundamentals familiarity aka. tools, cloud computing, best practices
 ⠀⠀⠀⣀⡤⠔⠒⠉⠉⠉⠉⠑⠒⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀
 ⠀⠀⣠⠞⢋⠁⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀
 ⢀⠜⠁⡴⠁⠀⡰⢉⠊⠀⠰⣦⡀⠐⠵⡰⡄⠀⠀⠀⠑⢄⠀⠀
