@@ -1,7 +1,8 @@
 <pre>
-Current focus is on ...
-- large-scale system design & tool integration
-- software devs fundamentals familiarity aka. tools, cloud computing, best practices
+Now, smacking keyboard and try to understand
+- software devs fundamentals familiarity aka. tools, cloud computing, 
+  best practices, debugging, monitoring, etc.
+- HPC research areas
 ⠀⠀⠀⣀⡤⠔⠒⠉⠉⠉⠉⠑⠒⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀
 ⠀⠀⣠⠞⢋⠁⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀
 ⢀⠜⠁⡴⠁⠀⡰⢉⠊⠀⠰⣦⡀⠐⠵⡰⡄⠀⠀⠀⠑⢄⠀⠀
