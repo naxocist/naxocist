@@ -1,8 +1,8 @@
 <pre>
-Now, smacking keyboard and try to understand
+Currently, trying to figure out ...
 - software devs fundamentals familiarity aka. tools, cloud computing, 
   best practices, debugging, monitoring, etc.
-- HPC research areas
+- wild world of HPC research
 ⠀⠀⠀⣀⡤⠔⠒⠉⠉⠉⠉⠑⠒⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀
 ⠀⠀⣠⠞⢋⠁⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀
 ⢀⠜⠁⡴⠁⠀⡰⢉⠊⠀⠰⣦⡀⠐⠵⡰⡄⠀⠀⠀⠑⢄⠀⠀
