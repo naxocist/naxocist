@@ -1,8 +1,7 @@
 <pre>
 Currently, trying to figure out ...
-- user-centric value engineering
-- software devs fundamentals familiarity aka. tools, cloud computing, 
-  best practices, debugging, monitoring, etc.
+- what actually matters in software ~ hardware world
+- familiarity with software practices
 - wild world of HPC research
 ⠀⠀⠀⣀⡤⠔⠒⠉⠉⠉⠉⠑⠒⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀
 ⠀⠀⣠⠞⢋⠁⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀
