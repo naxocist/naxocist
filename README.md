@@ -1,8 +1,4 @@
-<pre>
-Currently, trying to figure out ...
-- what actually matters in software ~ hardware world
-- familiarity with software practices
-- wild world of HPC research
+Nice to meet you!
 ⠀⠀⠀⣀⡤⠔⠒⠉⠉⠉⠉⠑⠒⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀
 ⠀⠀⣠⠞⢋⠁⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣀⠀⠀⠀
 ⢀⠜⠁⡴⠁⠀⡰⢉⠊⠀⠰⣦⡀⠐⠵⡰⡄⠀⠀⠀⠑⢄⠀⠀
