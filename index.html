@@ -1,46 +1,114 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>naxocist</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+          Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        line-height: 1.6;
+        color: #222;
+      }
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Naxocist</title>
-  <link rel="stylesheet" href="./style.css">
-  <link rel="icon" type="image/x-icon" href="assets/yui-hirasawa-guitar.gif">
-</head>
+      html {
+        scroll-behavior: smooth;
+      }
 
-<body>
-  <div class="box">
-    <h1>Naxocist</h1>
-    <h3>Ratanon Khamrong | CEDT03, CU</h3>
-    <p>TOI19/20 silver medalist & IPST camper</p>
-    <p>Hello World! Nice to meet you all!</p>
+      body {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        box-shadow: 0px 0px 5px 0.25px grey;
+      }
 
-    <button class="blogs-button" onclick="window.location.href='./blogs.html'">Blogs</button>
-    <br>
-    <br>
+      a {
+        color: #0077ff;
+      }
 
+      img {
+        max-width: 100%;
+        width: 200px;
+        height: auto;
+      }
+
+      .quote-box {
+        background-color: rgba(0, 0, 0, 0.05);
+        text-align: left;
+        padding: 0.5rem 0.5rem;
+        border-left: 5px solid #000;
+        margin: 1rem 0;
+      }
+
+      .separator {
+        margin: 1rem 0;
+        border: 0;
+        border-top: 1px solid #eee;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>
+      Ratanon Khamrong
+      <span style="color: dimgray; font-size: 0.5em"> naxocist </span>
+    </h1>
+
+    <nav style="margin: 1rem 0">
+      <a href="#projects">Projects</a> |
+      <a href="#notes">Notes</a>
+    </nav>
+
+    <p class="quote-box">健全なる魂は健全なる精神と、健全なる肉体に宿る</p>
+
+    <p style="font-weight: 600">🥐CEDT03, Chulalongkorn University</p>
+
+    <p>
+      <span style="color: #555; font-weight: 600">Satit CMU High School</span>
+      alumnus
+    </p>
     <a href="https://github.com/naxocist" target="_blank">Github</a>
-    <a href="https://codeforces.com/profile/naxocist" target="_blank">Codeforces</a>
-    <a href="https://myanimelist.net/profile/Naxocist" target="_blank">MyAnimeList</a>
-
-    <br>
-    <br>
-    <a href="https://github.com/naxocist/Blurp" target="_blank">Blurp - Anime discord bot</a>
-    <br>
-    <br>
+    <a href="https://www.linkedin.com/in/naxocist/" target="_blank">LinkedIn</a>
+    <a href="https://codeforces.com/profile/naxocist" target="_blank"
+      >Codeforces</a
+    >
+    <br />
+    <a href="https://myanimelist.net/profile/Naxocist" target="_blank"
+      >MyAnimeList</a
+    >
+    <br />
+    <br />
 
     <a href="https://k-on.fandom.com/wiki/Yui_Hirasawa" target="_blank">
-      <img width="300" src="assets/yui-hirasawa-guitar.gif" alt="naxocist">
+      <img src="assets/yui-guitar.gif" alt="naxocist" />
     </a>
     <p>Yui Hirasawa | 平沢唯</p>
 
+    <hr class="separator" />
+    <!----------------------------------------------------->
 
-    <br>
-    <img width="250"
-      src="https://count.getloli.com/@naxocist?name=naxocist&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0"
-      alt="naxocist">
-  </div>
-</body>
+    <h2 id="projects">Projects</h2>
+    <p>Useful & Interesting things.</p>
 
+    <a href="https://github.com/naxocist/Blurp" target="_blank"
+      >Blurp - Anime discord bot
+    </a>
+
+    <hr class="separator" />
+    <!----------------------------------------------------->
+
+    <h2 id="notes">Recent Notes</h2>
+
+    <article style="margin-bottom: 1.5rem">
+      <small style="color: dimgray">2026-02-17</small>
+      <h3>Test</h3>
+      <pre>
+Is something supposed to be here? Maybe someday it will.
+      </pre>
+    </article>
+  </body>
 </html>
