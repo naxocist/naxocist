@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+:global(html) {
+  scroll-behavior: smooth;
+}
+
+:global(body) {
+  margin: 0;
+  padding: 2rem 1rem;
+  color: #222;
+  background: #fff;
+}
+
+a {
+  color: #0077ff;
+}
+
+a:hover {
+  color: #0053ec;
+}
+
+@media (min-width: 640px) {
+  :global(body) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
