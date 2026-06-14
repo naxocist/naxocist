@@ -1,6 +1,6 @@
 +++
 title = "Hello world."
-date = 2026-06-15
+date = 6969-06-07
 +++
 
 Something should be here? I don't think so.
