@@ -33,7 +33,7 @@
     img { max-width: 100%; }
     hr { border: none; border-top: 1px solid var(--hr); margin: 2rem 0; }
     nav { margin-bottom: 2rem; display: flex; gap: 1rem; align-items: center; }
-    #theme { background: none; border: none; cursor: pointer; font-size: 1rem; padding: 0; color: var(--dim); }
+    #theme { background: none; border: none; cursor: pointer; font-size: 0.85rem; padding: 0; color: var(--dim); }
   </style>
   <script>
     const saved = localStorage.getItem('theme');
@@ -47,9 +47,10 @@
     <button id="theme" onclick="
       const light = document.documentElement.classList.toggle('light');
       localStorage.setItem('theme', light ? 'light' : 'dark');
-      this.textContent = light ? '☀' : '☾';
-    ">☾</button>
+      this.textContent = light ? 'too bright' : 'lights off';
+    ">lights off</button>
   </nav>
   {% block content %}{% endblock %}
+
 </body>
 </html>
