@@ -6,51 +6,27 @@
   <title>{% block title %}naxocist{% endblock %}</title>
   <link rel="icon" href="/favicon.ico">
   <style>
-    :root {
-      --bg: #111;
-      --fg: #ddd;
-      --link: #5b9cf6;
-      --dim: #888;
-      --hr: #333;
-    }
-    :root.light {
-      --bg: #fff;
-      --fg: #222;
-      --link: #0077ff;
-      --dim: #666;
-      --hr: #ddd;
-    }
     body {
       max-width: 650px;
       margin: 40px auto;
       padding: 0 20px;
       font: 18px/1.6 sans-serif;
-      color: var(--fg);
-      background: var(--bg);
+      color: #ddd;
+      background: #111;
     }
-    a { color: var(--link); text-decoration: none; }
+    a { color: #5b9cf6; text-decoration: none; }
     a:hover { text-decoration: underline; }
     img { max-width: 100%; }
-    hr { border: none; border-top: 1px solid var(--hr); margin: 2rem 0; }
-    nav { margin-bottom: 2rem; display: flex; gap: 1rem; align-items: center; }
-    #theme { background: none; border: none; cursor: pointer; font-size: 0.85rem; padding: 0; color: var(--dim); }
+    hr { border: none; border-top: 1px solid #333; margin: 2rem 0; }
+    nav { margin-bottom: 2rem; }
+    nav a { margin-right: 1rem; }
   </style>
-  <script>
-    const saved = localStorage.getItem('theme');
-    if (saved === 'light') document.documentElement.classList.add('light');
-  </script>
 </head>
 <body>
   <nav>
     <a href="/">home</a>
     <a href="/archive">archive</a>
-    <button id="theme" onclick="
-      const light = document.documentElement.classList.toggle('light');
-      localStorage.setItem('theme', light ? 'light' : 'dark');
-      this.textContent = light ? 'too bright' : 'lights off';
-    ">lights off</button>
   </nav>
   {% block content %}{% endblock %}
-
 </body>
 </html>
