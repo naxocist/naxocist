@@ -1,4 +1,4 @@
-base_url = "https://naxocist.dev"
+base_url = "https://naxocist.pages.dev"
 title = "naxocist"
 compile_sass = false
 generate_feeds = false
