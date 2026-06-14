@@ -1,0 +1,4 @@
+# Cloudflare Pages — connect this repo in the CF dashboard
+# Build command: zola build
+# Build output: public
+# Environment variable: ZOLA_VERSION = 0.20.0

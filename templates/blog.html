@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}blog — naxocist{% endblock %}
+
+{% block content %}
+<h1>Blog</h1>
+
+{% set sorted = section.pages | sort(attribute="date") | reverse %}
+{% for page in sorted %}
+<p>
+  <span style="color:#666;font-size:0.85em">{{ page.date }}</span><br>
+  <a href="{{ page.permalink }}">{{ page.title }}</a>
+</p>
+{% endfor %}
+{% endblock %}

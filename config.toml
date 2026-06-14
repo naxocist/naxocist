@@ -1,0 +1,7 @@
+base_url = "https://naxocist.dev"
+title = "naxocist"
+compile_sass = false
+generate_feeds = false
+
+[markdown]
+highlight_code = true
