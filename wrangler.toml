@@ -1,4 +1,2 @@
-# Cloudflare Pages — connect this repo in the CF dashboard
-# Build command: zola build
-# Build output: public
-# Environment variable: ZOLA_VERSION = 0.20.0
+name = "naxocist"
+pages_build_output_dir = "public"
