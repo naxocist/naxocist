@@ -3,5 +3,3 @@ title = "naxocist"
 compile_sass = false
 generate_feeds = false
 
-[markdown]
-highlighting.theme = "base16-ocean-dark"
