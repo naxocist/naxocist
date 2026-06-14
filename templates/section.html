@@ -3,7 +3,7 @@
 {% block title %}notes{% endblock %}
 
 {% block content %}
-<h1>Archive</h1>
+<h1>Notes</h1>
 
 {% set sorted = section.pages | sort(attribute="date") | reverse %}
 {% for page in sorted %}
