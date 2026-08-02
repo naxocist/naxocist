@@ -6,11 +6,23 @@
   <title>{% block title %}naxocist{% endblock %}</title>
   <link rel="icon" href="/favicon.ico">
   <style>
+    @font-face {
+      font-family: "Adwaita Mono";
+      src: url("/fonts/AdwaitaMonoNerdFont-Regular.woff2") format("woff2");
+      font-weight: 400;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: "Adwaita Mono";
+      src: url("/fonts/AdwaitaMonoNerdFont-Bold.woff2") format("woff2");
+      font-weight: 700;
+      font-display: swap;
+    }
     body {
       max-width: 650px;
       margin: 40px auto;
       padding: 0 20px;
-      font: 18px/1.6 sans-serif;
+      font: 18px/1.6 "Adwaita Mono", monospace;
       color: #ddd;
       background: #111;
     }
